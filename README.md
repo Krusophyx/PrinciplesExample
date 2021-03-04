@@ -5,8 +5,8 @@
 1. Is the information collected authentic?
 - [ ] Process in place where the information collected is authenticated by being given directly from the individual with any necessary supporting documents.
 <!-- Actionable item 2. Interpretation -->
-2. Are you getting the clients consent?
-- [ ] There is an option not to give information. By clicking submit or by submitting a form, the client gives consent.
+2. Does the agency receive the clients consent?
+- [ ] There is an option not to give information. By clicking submit or by submitting a form, the client gives consent. Produce form.
 
 ## Principle 3 - Collection of information from subject
 <!-- Actionable item 1. Interpretation -->
@@ -14,11 +14,11 @@
 - [ ] Agency statement providing the client a thorough understanding of what is being collected and why it is being collected.
 <!-- Actionable item 2. Interpretation -->
 2. Is the client aware that they can review and correct any information given?
-- [ ] The application form will detail a statement that will inform the client's right to review and correct any and all information given.
+- [ ] Application form detailing a statement that will inform client rights to review and correct any and all information given.
 
 ## Principle 5 - Storage and security of personal information
 <!-- Actionable item 1. Interpretation -->
-1. Will all information stored be secure?
+1. Will all information stored, be secure?
 - [ ] All information will be secured with encryption.
 <!-- Actionable item 2. Interpretation -->
 2. Will my information be stored permanently?
