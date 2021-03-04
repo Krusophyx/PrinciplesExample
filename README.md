@@ -28,11 +28,11 @@
 
 ## Principle 6 - Access to personal information
 <!-- Actionable item 1 -->
-- [ ] Interpretation. 
-- [ ] Action. 
+- [ ] Interpretation. Does the client have access to personal information?
+- [ ] Action. The agency will have a process in place where clients can access their personal information given.
 <!-- Actionable item 2 -->
 - [ ] Interpretation. 
-- [ ] Action. 
+- [ ] Action. Principle 6 is met by complying fully with Section 2.4 of the NZ Government Web Usability Standard, which requires this information to be included in a Privacy Statement for each site or service.
 
 ## Principle 7 - Correction of personal information
 <!-- Actionable item 1 -->
