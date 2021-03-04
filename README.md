@@ -1,4 +1,4 @@
-# ITandLaw
+# IT and Law Assessment
 
 ## Principle 2 - Source of personal information
 <!-- Actionable item 1 -->
