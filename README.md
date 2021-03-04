@@ -8,7 +8,7 @@
               supporting documents
 <!-- Actionable item 2 -->
 - [ ] Interpretation. Are you getting the clients consent?
-- [ ] Action. There is an option not to give information. By clicking submit the client gives consent.
+- [ ] Action. There is an option not to give information. By clicking submit or by submitting a form, the client gives consent.
 
 ## Principle 3 - Collection of information from subject
 <!-- Actionable item 1 -->
