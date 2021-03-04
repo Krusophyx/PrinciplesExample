@@ -23,7 +23,7 @@
 <!-- Actionable item 2. Interpretation -->
 2. Will my information be stored permanently?
 - [ ] In accordance with the Privacy Act 2020, Part 3, Subpart 1, IPP 9. All information will be stored for a fixed amount of time and will expire.
-- [ ] Any client will be made aware of the time period any and all information will be held on file for.
+- [ ] Statement providing a client awareness of the time period of any and all information will be held on file for.
 
 ## Principle 6 - Access to personal information
 <!-- Actionable item 1. Interpretation -->
