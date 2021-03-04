@@ -1,12 +1,14 @@
-# IT and Law Assessmentxxx
+# IT and Law Assessment
 
 ## Principle 2 - Source of personal information
 <!-- Actionable item 1. Interpretation -->
 1. Is the information collected authentic?
-- [ ] Process in place where the information collected is authenticated by being given directly from the individual with any necessary supporting documents.
+- [ ] <!-- Roman, should I be wording it like this --> Process in place where the information collected is authenticated by being given directly from the individual with any necessary supporting documents.
+- [ ] <!-- or like this --> Clients have the ability to authenticate their personal information.
 <!-- Actionable item 2. Interpretation -->
 2. Does the agency receive the clients consent?
 - [ ] There is an option not to give information. By clicking submit or by submitting a form, the client gives consent. Produce form.
+- [ ] Clients have the ability to give consent.
 
 ## Principle 3 - Collection of information from subject
 <!-- Actionable item 1. Interpretation -->
