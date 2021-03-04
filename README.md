@@ -1,7 +1,18 @@
-# PrinciplesExample
+# ITandLaw
 
-## Principle. early and continuous delivery of valuable software
+## Principle 2 - Source of personal information
 
-- [ ] action 1 - Quickly deliver a working prtoptype within the first week
-- [ ] action 2 - Test this software with the client straight away
-- [ ] <!-- comment you need to expand on this a little -->
+### Actionable item 1
+- [ ] Interpretation. Is the information collected authentic?
+- [ ] Action. The information collected is authenticated by;
+- [ ]         being given directly from the individual with,
+- [ ]         supporting documents
+
+### Actionable item 2
+- [ ] Interpretation. Are you getting the clients consent?
+- [ ] Action. There is an option not to give information. By clicking submit the client gives consent.
+
+## Principle 3 - Collection of information from subject
+
+- [ ] Interpretation. 
+
